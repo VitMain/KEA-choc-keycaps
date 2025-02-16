@@ -12,7 +12,8 @@ You can find the open source files on the Kea Workshop GitHub or Printables.
 
 If you would like to manufacture these keycaps using injection moulding and make them a full fledged product, please contact me as i would love to do this!
 
-Keycaps available for purchase here: https://www.keaworkshop.com/product/kw-choc-3dp-keycaps https://3dkeycap.com/collections/kea/products/kea-keycaps-pack-of-4?variant=45290535223554
+Keycaps available for purchase here: 
+https://www.keaworkshop.com/product/kw-choc-3dp-keycaps https://3dkeycap.com/collections/kea/products/kea-keycaps-pack-of-4?variant=45290535223554
 
 ![eSun Light Blue KEA Keycaps 1000px](https://github.com/klouderone/kwchocv1keycaps/assets/136342173/9c6510f8-34a2-4d66-ae16-1e297f255944)
 
