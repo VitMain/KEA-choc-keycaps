@@ -1,6 +1,6 @@
 ## KEA Profile Choc V1 3D Printable Keycaps by Kea Workshop 
 
-Feel free to use commercially, as long as attribution is given!
+Feel free to use commercially, as long as attribution is given, and I am notified you are doing so!
 
 The KEA profile keycaps are for Choc V1 switches, and are designed to be FDM printed. They feature a deep dish for a comfortable finger feel, and rounded edges for a stylish look. The keycaps have been designed to be 3D printed, featuring a top and bottom chamfer on the backside to remove overhangs, when printing standing up to increase strength, a bonus being that with small layer heights, the layer lines are almost invisible.
 
@@ -12,7 +12,7 @@ You can find the open source files on the Kea Workshop GitHub or Printables.
 
 If you would like to manufacture these keycaps using injection moulding and make them a full fledged product, please contact me as i would love to do this!
 
-Keycaps available for purchase here: https://www.keaworkshop.com/product/kw-choc-3dp-keycaps
+Keycaps available for purchase here: https://www.keaworkshop.com/product/kw-choc-3dp-keycaps https://3dkeycap.com/collections/kea/products/kea-keycaps-pack-of-4?variant=45290535223554
 
 ![eSun Light Blue KEA Keycaps 1000px](https://github.com/klouderone/kwchocv1keycaps/assets/136342173/9c6510f8-34a2-4d66-ae16-1e297f255944)
 
