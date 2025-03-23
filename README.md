@@ -1,8 +1,8 @@
-## KEA Profile Choc V1 3D Printable Keycaps by Kea Workshop 
+# KEA Profile Choc V1 3D Printable Keycaps by Kea Workshop 
 
 ![Choc V1 MX Spaced Display Drawing](https://github.com/user-attachments/assets/8d54249e-4d79-49a9-b147-702ff587a781)
 
-# About the KEA Profile
+## About the KEA Profile
 The KEA profile keycaps are for Choc V1 switches, and are designed to be FDM printed. The keycaps have been designed to be 3D printed, featuring a top and bottom chamfer on the backside to remove overhangs, when printing standing up to increase strength, a bonus being that with small layer heights, the layer lines are almost invisible. 
 
 ![KEA Profile Variant Info Inverted](https://github.com/user-attachments/assets/a956e19e-007a-4fe2-ba28-caa8aaa6232f)
