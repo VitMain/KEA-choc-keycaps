@@ -7,6 +7,8 @@ The KEA profile keycaps are for Choc V1 switches, and are designed to be FDM pri
 
 ![KEA Profile Variant Info Inverted](https://github.com/user-attachments/assets/a956e19e-007a-4fe2-ba28-caa8aaa6232f)
 
+Keycaps available for purchase here: 
+https://www.keaworkshop.com/product/kw-choc-3dp-keycaps https://3dkeycap.com/collections/kea/products/kea-keycaps-pack-of-4?variant=45290535223554
 
 ## Print Settings
 I print these reliably on a Bambu Lab X1C, with a .4mm nozzle, with PLA+. My print settings are the following:
@@ -22,16 +24,12 @@ I print these reliably on a Bambu Lab X1C, with a .4mm nozzle, with PLA+. My pri
 
 ![Supports KEA Profile Keycaps](https://github.com/user-attachments/assets/b4005c06-753b-4f84-9783-bda91ae57d2c)
 
-# For Retailers/Manufacturers
+## For Retailers/Manufacturers
 
 Feel free to use commercially, as long as **attribution is given**, and **I am notified you** are doing so!
 
 If you would like to **manufacture these keycaps using injection moulding** and make them a full fledged product, **please contact me** as I would love to do this!
 
-Keycaps available for purchase here: 
-https://www.keaworkshop.com/product/kw-choc-3dp-keycaps https://3dkeycap.com/collections/kea/products/kea-keycaps-pack-of-4?variant=45290535223554
-
 Profile Created by **Kea Workshop/Claude Loomes**
 
-Legend Keys Created by **Ross Douglas**
 
