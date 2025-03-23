@@ -1,8 +1,8 @@
 ## KEA Profile Choc V1 3D Printable Keycaps by Kea Workshop 
 
-![KEA Profile Variant Spacing and Sizing](https://github.com/user-attachments/assets/ecf8bbf5-a684-4d4a-ac7d-0b401b5b800a)
-
 ![Choc V1 MX Spaced Display Drawing](https://github.com/user-attachments/assets/8d54249e-4d79-49a9-b147-702ff587a781)
+
+![KEA Profile Variant Spacing and Sizing](https://github.com/user-attachments/assets/ecf8bbf5-a684-4d4a-ac7d-0b401b5b800a)
 
 Feel free to use commercially, as long as attribution is given, and I am notified you are doing so!
 
