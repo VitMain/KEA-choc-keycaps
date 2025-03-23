@@ -11,8 +11,12 @@ Keycaps available for purchase here:
 - https://www.keaworkshop.com/product/kw-choc-3dp-keycaps
 - https://3dkeycap.com/collections/kea/products/kea-keycaps-pack-of-4?variant=45290535223554
 
+## Images
+![eSun Black KEA Keycaps](https://github.com/user-attachments/assets/4f8252cd-3ebf-438f-ad84-cc55c617c070)
+![Reflow Sage Green KEA Keycaps](https://github.com/user-attachments/assets/120fb092-a843-4c64-85bc-9f1ba4feb28b)
+
 ## Print Settings
-I print these reliably on a Bambu Lab X1C, with a .4mm nozzle, with PLA+. My print settings are the following:
+I print these reliably on a Bambu Lab X1C, with a .4mm nozzle, with PLA+. I find black looks the best as the layer lines are harder to see. My print settings are the following:
 - Layer Height: .08mm
 - Line Width: .42mm
 - Wall Loops: 3
