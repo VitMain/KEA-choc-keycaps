@@ -2,7 +2,7 @@
 
 ![Choc V1 MX Spaced Display Drawing](https://github.com/user-attachments/assets/8d54249e-4d79-49a9-b147-702ff587a781)
 
-![KEA Profile Variant Spacing and Sizing](https://github.com/user-attachments/assets/ecf8bbf5-a684-4d4a-ac7d-0b401b5b800a)
+![KEA Profile Variant Info Inverted](https://github.com/user-attachments/assets/a956e19e-007a-4fe2-ba28-caa8aaa6232f)
 
 Feel free to use commercially, as long as attribution is given, and I am notified you are doing so!
 
