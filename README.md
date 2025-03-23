@@ -3,9 +3,9 @@
 ![Kea Keycap Profile Variants](https://github.com/user-attachments/assets/13247a83-cc42-415a-8c70-dadaf70dd2f5)
 
 ## About the KEA Profile
-The KEA profile keycaps are for Choc V1 switches, and are designed to be FDM printed. 
-The keycaps have a top and bottom chamfer on the backside to remove overhangs, and are meant to print standing up to align layer lines with the pins so that they do not fail in shear. 
-With small layer heights, the layer lines are almost invisible. 
+- The KEA profile keycaps are for Choc V1 switches, and are designed to be FDM printed. 
+- The keycaps have a top and bottom chamfer on the backside to remove overhangs, and are meant to print standing up to align layer lines with the pins so that they do not fail in shear. 
+- With small layer heights, the layer lines are almost invisible. 
 
 ![KEA Profile Variant Info Inverted](https://github.com/user-attachments/assets/a956e19e-007a-4fe2-ba28-caa8aaa6232f)
 
