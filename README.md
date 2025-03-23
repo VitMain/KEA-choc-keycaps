@@ -2,6 +2,8 @@
 
 ![KEA Profile Variant Spacing and Sizing](https://github.com/user-attachments/assets/ecf8bbf5-a684-4d4a-ac7d-0b401b5b800a)
 
+![Choc V1 MX Spaced Display Drawing](https://github.com/user-attachments/assets/8d54249e-4d79-49a9-b147-702ff587a781)
+
 Feel free to use commercially, as long as attribution is given, and I am notified you are doing so!
 
 The KEA profile keycaps are for Choc V1 switches, and are designed to be FDM printed. They feature a deep dish for a comfortable finger feel, and rounded edges for a stylish look. The keycaps have been designed to be 3D printed, featuring a top and bottom chamfer on the backside to remove overhangs, when printing standing up to increase strength, a bonus being that with small layer heights, the layer lines are almost invisible.
