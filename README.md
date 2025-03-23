@@ -8,7 +8,7 @@ The KEA profile keycaps are for Choc V1 switches, and are designed to be FDM pri
 ![KEA Profile Variant Info Inverted](https://github.com/user-attachments/assets/a956e19e-007a-4fe2-ba28-caa8aaa6232f)
 
 
-# Print Settings
+## Print Settings
 I print these reliably on a Bambu Lab X1C, with a .4mm nozzle, with PLA+. My print settings are the following:
 - Layer Height: .08mm
 - Line Width: .42mm
