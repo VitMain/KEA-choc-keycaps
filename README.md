@@ -14,6 +14,8 @@ Keycaps available for purchase here:
 - https://3dkeycap.com/collections/kea/products/kea-keycaps-pack-of-4?variant=45290535223554
 
 ## Images
+![IMG_8742](https://github.com/user-attachments/assets/a1687339-4a55-4f08-aac0-a02eaea6f5de)
+![1C0A1733](https://github.com/user-attachments/assets/d208fa95-c3c0-4a02-9b27-733f5a89c290)
 
 
 ## Print Settings
