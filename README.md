@@ -19,7 +19,11 @@ Keycaps available for purchase here:
 
 
 ## Print Settings
-I print these reliably on a Bambu Lab X1C, with a .4mm nozzle, with PLA+. I find black looks the best as the layer lines are harder to see. My print settings are the following:
+I print these reliably on a Bambu Lab X1C, with a .4mm nozzle, with eSun PLA+. I find black looks the best as the layer lines are harder to see, however if you fine tune you can get them pretty invisible with any colour.
+
+They are designed to be printed standing upright, as that gives the prongs optimal strength and avoid them breaking off in the switch.
+
+My print settings are the following:
 - Layer Height: .08mm
 - Line Width: .42mm
 - Wall Loops: 3
@@ -28,6 +32,7 @@ I print these reliably on a Bambu Lab X1C, with a .4mm nozzle, with PLA+. I find
 - Support: Painted manually, only under the keycap prongs
 - Support Style: Snug
 - Support top and bottom Z distance: .08mm
+- Support top and bottom inferface layers: 2
 - Brim: Yes
 
 ![Supports KEA Profile Keycaps](https://github.com/user-attachments/assets/b4005c06-753b-4f84-9783-bda91ae57d2c)
