@@ -10,8 +10,8 @@
 ![KEA Profile Variant Info Inverted](https://github.com/user-attachments/assets/a956e19e-007a-4fe2-ba28-caa8aaa6232f)
 
 Keycaps available for purchase here: 
-- https://www.keaworkshop.com/product/kw-choc-3dp-keycaps
-- https://3dkeycap.com/collections/kea/products/kea-keycaps-pack-of-4?variant=45290535223554
+- [Kea Workshop](https://www.keaworkshop.com/product/kw-choc-3dp-keycaps)
+- [3D Keycap](https://3dkeycap.com/collections/kea/products/kea-keycaps-pack-of-4)
 
 ## Images
 ![IMG_8742](https://github.com/user-attachments/assets/a1687339-4a55-4f08-aac0-a02eaea6f5de)
