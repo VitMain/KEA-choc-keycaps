@@ -39,10 +39,6 @@ My print settings are the following:
 
 ## For Retailers/Manufacturers
 
-Feel free to use commercially, as long as **attribution is given**, and **I am notified you** are doing so!
-
-If you would like to **manufacture these keycaps using injection moulding** and make them a full fledged product, **please contact me** as I would love to do this!
-
-Profile Created by **Kea Workshop/Claude Loomes**
+You must adhere to the licence found in LICENCE.txt file.
 
 
